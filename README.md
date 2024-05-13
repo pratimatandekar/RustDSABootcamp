@@ -1,1 +1,2 @@
 # RustDSABootcamp
+readme updated
